@@ -1,0 +1,392 @@
+Archive:  db/11260.zip
+  inflating: db/11260/Outputs.OutJob  
+  inflating: db/11260/RUMBA32_v1_0A_AssyDraw.pdf  
+  inflating: db/11260/RUMBA32_v1_0A_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_0A_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_0A_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_0B_AssyDraw.pdf  
+  inflating: db/11260/RUMBA32_v1_0B_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_0B_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_0B_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_0C_AssyDraw.pdf  
+  inflating: db/11260/RUMBA32_v1_0C_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_0C_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_0C_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_0D_AssyDraw.pdf  
+  inflating: db/11260/RUMBA32_v1_0D_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_0D_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_0D_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_0E_AssyDraw.pdf  
+  inflating: db/11260/RUMBA32_v1_0E_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_0E_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_0E_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_0E_RenderBottom.PDF  
+  inflating: db/11260/RUMBA32_v1_0E_RenderTop.PDF  
+  inflating: db/11260/RUMBA32_v1_0E_Schematic.PDF  
+  inflating: db/11260/RUMBA32_v1_1A_All.zip  
+  inflating: db/11260/RUMBA32_v1_1A_AssyDrawing.PDF  
+  inflating: db/11260/RUMBA32_v1_1A_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_1A_DimensionDrawing.PDF  
+  inflating: db/11260/RUMBA32_v1_1A_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_1A_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_1A_PinoutDrawing.PDF  
+  inflating: db/11260/RUMBA32_v1_1A_RenderBottom.PDF  
+  inflating: db/11260/RUMBA32_v1_1A_RenderTop.PDF  
+  inflating: db/11260/RUMBA32_v1_1A_Schematic.PDF  
+  inflating: db/11260/RUMBA32_v1_1B_All.zip  
+  inflating: db/11260/RUMBA32_v1_1B_AssyDrawing.PDF  
+  inflating: db/11260/RUMBA32_v1_1B_BOM.xlsx  
+  inflating: db/11260/RUMBA32_v1_1B_DimensionDrawing.PDF  
+  inflating: db/11260/RUMBA32_v1_1B_Gerbers.zip  
+  inflating: db/11260/RUMBA32_v1_1B_PickPlace.csv  
+  inflating: db/11260/RUMBA32_v1_1B_PinoutDrawing.PDF  
+  inflating: db/11260/RUMBA32_v1_1B_RenderBottom.PDF  
+  inflating: db/11260/RUMBA32_v1_1B_RenderTop.PDF  
+  inflating: db/11260/RUMBA32_v1_1B_Schematic.PDF  
+  inflating: db/11260/RUMBA32.PcbDoc  
+  inflating: db/11260/RUMBA32.PrjPCB  
+  inflating: db/11260/RUMBA32.SchDoc  
+  inflating: db/11260/RUMBA32_AssyDrawing.PCBDwf  
+Loading RUMBA32.SchDoc
+
+Loading RUMBA32.PcbDoc
+
+Done.
+Handling RUMBA32-PcbDoc/Root Entry/FileHeader.dat
+Handling RUMBA32-SchDoc/Root Entry/FileHeader.dat
+ERROR: newAltmLogo.bmp not found!
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 9
+Unhandled Record type within: 9
+WARNING: Pin symbol type 13 not understood - IGNORING!
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 9
+Unhandled Record type within: 9
+Handling RUMBA32.SchDoc
+Handling RUMBA32-PcbDoc/Root Entry/Board6/Data.dat
+ASCII-RUMBA32-PcbDoc.PcbDoc exists?
+Writing to RUMBA32-PcbDoc/Root Entry/Board6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Models/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/UniqueIDPrimitiveInformation/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Rules6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Classes6/Data.dat.txt
+Writing PCB to RUMBA32-PcbDoc.kicad_pcb
+Writing to RUMBA32-PcbDoc/Root Entry/Nets6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Components6/Data.dat.txt
+Pads6...
+Seems we should skip 0x1e0 bytes
+Writing to RUMBA32-PcbDoc/Root Entry/ComponentBodies6/Data.dat.txt
+NOT FOUND: DS1021-1x2SF11.wrl
+NOT FOUND: CAPAE-D6.3x5.4.wrl
+NOT FOUND: FemaleHeader2.wrl
+NOT FOUND: DS1021-1x3SF11.wrl
+NOT FOUND: DS1021-1x4SF11.wrl
+NOT FOUND: lfpak.wrl
+NOT FOUND: Pulsador.wrl
+NOT FOUND: User Library-CSTCE.wrl
+NOT FOUND: DS1021-1x5SF11.wrl
+NOT FOUND: DS1021-2x3SF11.wrl
+NOT FOUND: 68912.wrl
+NOT FOUND: Fusibile Lama MINI Type 1.wrl
+NOT FOUND: Term 2 pin 3.5mm.wrl
+NOT FOUND: DS1023-1x8SF11.wrl
+NOT FOUND: Term 2 pin 5mm.wrl
+NOT FOUND: Term 4 pin 3.5mm.wrl
+NOT FOUND: User Library-LQFP-100-1.wrl
+NOT FOUND: DS1021-2x5SF11.wrl
+NOT FOUND: molex-usb-1050170001.wrl
+NOT FOUND: DS1021-2x7SF11.wrl
+NOT FOUND: User Library-SHORTING JUMPER.wrl
+NOT FOUND: RES 0402 (1005 metric).wrl
+NOT FOUND: LED 0603 APT1608 GREEN.wrl
+NOT FOUND: CAP 0402 (1005 metric).wrl
+NOT FOUND: CAP_1210.wrl
+NOT FOUND: SOT23-3.wrl
+NOT FOUND: SOD-523F.wrl
+NOT FOUND: TSOT23-6.wrl
+NOT FOUND: SOT23-5.wrl
+NOT FOUND: CAP_0603.wrl
+NOT FOUND: SOT353.wrl
+NOT FOUND: SOIC127P600X175-8M.wrl
+NOT FOUND: SW3dPS-DO-214AC SMA.wrl
+NOT FOUND: DO-214AA.wrl
+Writing to RUMBA32-PcbDoc/Root Entry/ShapeBasedComponentBodies6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Components6/Data.dat.txt
+Where did the model come from? componentid: 0
+Where did the model come from? componentid: 1
+Where did the model come from? componentid: 2
+Where did the model come from? componentid: 3
+Where did the model come from? componentid: 4
+Where did the model come from? componentid: 5
+Where did the model come from? componentid: 6
+Where did the model come from? componentid: 7
+Where did the model come from? componentid: 8
+Where did the model come from? componentid: 9
+Where did the model come from? componentid: 10
+Where did the model come from? componentid: 11
+Where did the model come from? componentid: 12
+Where did the model come from? componentid: 13
+Where did the model come from? componentid: 14
+Where did the model come from? componentid: 15
+Where did the model come from? componentid: 16
+Where did the model come from? componentid: 17
+Where did the model come from? componentid: 18
+Where did the model come from? componentid: 19
+Where did the model come from? componentid: 20
+Where did the model come from? componentid: 21
+Where did the model come from? componentid: 22
+Where did the model come from? componentid: 23
+Where did the model come from? componentid: 24
+Where did the model come from? componentid: 25
+Where did the model come from? componentid: 26
+Where did the model come from? componentid: 27
+Where did the model come from? componentid: 28
+Where did the model come from? componentid: 29
+Where did the model come from? componentid: 30
+Where did the model come from? componentid: 31
+Where did the model come from? componentid: 32
+Where did the model come from? componentid: 33
+Where did the model come from? componentid: 34
+Where did the model come from? componentid: 35
+Where did the model come from? componentid: 36
+Where did the model come from? componentid: 37
+Where did the model come from? componentid: 38
+Where did the model come from? componentid: 39
+Where did the model come from? componentid: 40
+Where did the model come from? componentid: 41
+Where did the model come from? componentid: 42
+Where did the model come from? componentid: 43
+Where did the model come from? componentid: 44
+Where did the model come from? componentid: 45
+Where did the model come from? componentid: 46
+Where did the model come from? componentid: 47
+Where did the model come from? componentid: 48
+Where did the model come from? componentid: 49
+Where did the model come from? componentid: 50
+Where did the model come from? componentid: 51
+Where did the model come from? componentid: 52
+Where did the model come from? componentid: 53
+Where did the model come from? componentid: 54
+Where did the model come from? componentid: 55
+Where did the model come from? componentid: 56
+Where did the model come from? componentid: 57
+Where did the model come from? componentid: 58
+Where did the model come from? componentid: 59
+Where did the model come from? componentid: 60
+Where did the model come from? componentid: 61
+Where did the model come from? componentid: 62
+Where did the model come from? componentid: 63
+Where did the model come from? componentid: 64
+Where did the model come from? componentid: 65
+Where did the model come from? componentid: 66
+Where did the model come from? componentid: 67
+Where did the model come from? componentid: 68
+Where did the model come from? componentid: 69
+Where did the model come from? componentid: 70
+Where did the model come from? componentid: 71
+Where did the model come from? componentid: 72
+Where did the model come from? componentid: 73
+Where did the model come from? componentid: 74
+Where did the model come from? componentid: 75
+Where did the model come from? componentid: 76
+Where did the model come from? componentid: 77
+Where did the model come from? componentid: 78
+Where did the model come from? componentid: 79
+Where did the model come from? componentid: 81
+Where did the model come from? componentid: 82
+Where did the model come from? componentid: 83
+Where did the model come from? componentid: 84
+Where did the model come from? componentid: 85
+Where did the model come from? componentid: 86
+Where did the model come from? componentid: 87
+Where did the model come from? componentid: 88
+Where did the model come from? componentid: 89
+Where did the model come from? componentid: 90
+Where did the model come from? componentid: 91
+Where did the model come from? componentid: 92
+Where did the model come from? componentid: 93
+Where did the model come from? componentid: 94
+Where did the model come from? componentid: 95
+Where did the model come from? componentid: 96
+Where did the model come from? componentid: 97
+Where did the model come from? componentid: 98
+Where did the model come from? componentid: 99
+Where did the model come from? componentid: 100
+Where did the model come from? componentid: 102
+Where did the model come from? componentid: 103
+Where did the model come from? componentid: 104
+Where did the model come from? componentid: 105
+Where did the model come from? componentid: 106
+Where did the model come from? componentid: 107
+Where did the model come from? componentid: 108
+Where did the model come from? componentid: 109
+Where did the model come from? componentid: 110
+Where did the model come from? componentid: 111
+Where did the model come from? componentid: 112
+Where did the model come from? componentid: 113
+Where did the model come from? componentid: 114
+Where did the model come from? componentid: 115
+Where did the model come from? componentid: 116
+Where did the model come from? componentid: 117
+Where did the model come from? componentid: 118
+Where did the model come from? componentid: 119
+Where did the model come from? componentid: 120
+Where did the model come from? componentid: 121
+Where did the model come from? componentid: 122
+Where did the model come from? componentid: 123
+Where did the model come from? componentid: 124
+Where did the model come from? componentid: 125
+Where did the model come from? componentid: 126
+Where did the model come from? componentid: 127
+Where did the model come from? componentid: 128
+Where did the model come from? componentid: 129
+Where did the model come from? componentid: 130
+Where did the model come from? componentid: 131
+Where did the model come from? componentid: 132
+Where did the model come from? componentid: 133
+Where did the model come from? componentid: 134
+Where did the model come from? componentid: 135
+Where did the model come from? componentid: 136
+Where did the model come from? componentid: 137
+Where did the model come from? componentid: 138
+Where did the model come from? componentid: 139
+Where did the model come from? componentid: 140
+Where did the model come from? componentid: 141
+Where did the model come from? componentid: 142
+Where did the model come from? componentid: 143
+Where did the model come from? componentid: 144
+Where did the model come from? componentid: 145
+Where did the model come from? componentid: 146
+Where did the model come from? componentid: 147
+Where did the model come from? componentid: 148
+Where did the model come from? componentid: 149
+Where did the model come from? componentid: 150
+Where did the model come from? componentid: 151
+Where did the model come from? componentid: 152
+Where did the model come from? componentid: 153
+Where did the model come from? componentid: 154
+Where did the model come from? componentid: 155
+Where did the model come from? componentid: 157
+Where did the model come from? componentid: 158
+Where did the model come from? componentid: 162
+Where did the model come from? componentid: 163
+Where did the model come from? componentid: 164
+Where did the model come from? componentid: 168
+Where did the model come from? componentid: 169
+Where did the model come from? componentid: 170
+Where did the model come from? componentid: 171
+Where did the model come from? componentid: 172
+Where did the model come from? componentid: 173
+Where did the model come from? componentid: 174
+Where did the model come from? componentid: 175
+Where did the model come from? componentid: 176
+Where did the model come from? componentid: 177
+Where did the model come from? componentid: 178
+Where did the model come from? componentid: 179
+Where did the model come from? componentid: 180
+Where did the model come from? componentid: 181
+Where did the model come from? componentid: 182
+Where did the model come from? componentid: 183
+Where did the model come from? componentid: 184
+Where did the model come from? componentid: 185
+Where did the model come from? componentid: 186
+Where did the model come from? componentid: 187
+Where did the model come from? componentid: 188
+Where did the model come from? componentid: 189
+Where did the model come from? componentid: 190
+Where did the model come from? componentid: 191
+Where did the model come from? componentid: 192
+Where did the model come from? componentid: 193
+Where did the model come from? componentid: 194
+Where did the model come from? componentid: 195
+Where did the model come from? componentid: 196
+Where did the model come from? componentid: 197
+Where did the model come from? componentid: 198
+Where did the model come from? componentid: 199
+Where did the model come from? componentid: 200
+Where did the model come from? componentid: 201
+Where did the model come from? componentid: 202
+Where did the model come from? componentid: 203
+Where did the model come from? componentid: 204
+Where did the model come from? componentid: 205
+Where did the model come from? componentid: 206
+Where did the model come from? componentid: 207
+Where did the model come from? componentid: 208
+Where did the model come from? componentid: 209
+Where did the model come from? componentid: 210
+Where did the model come from? componentid: 211
+Where did the model come from? componentid: 212
+Where did the model come from? componentid: 213
+Where did the model come from? componentid: 214
+Where did the model come from? componentid: 215
+Where did the model come from? componentid: 216
+Where did the model come from? componentid: 217
+Where did the model come from? componentid: 218
+Where did the model come from? componentid: 219
+Where did the model come from? componentid: 220
+Where did the model come from? componentid: 221
+Where did the model come from? componentid: 222
+Where did the model come from? componentid: 223
+Where did the model come from? componentid: 224
+Where did the model come from? componentid: 225
+Where did the model come from? componentid: 226
+Where did the model come from? componentid: 227
+Where did the model come from? componentid: 228
+Where did the model come from? componentid: 229
+Where did the model come from? componentid: 230
+Where did the model come from? componentid: 231
+Where did the model come from? componentid: 232
+Where did the model come from? componentid: 233
+Where did the model come from? componentid: 234
+Where did the model come from? componentid: 235
+Where did the model come from? componentid: 236
+Where did the model come from? componentid: 240
+Where did the model come from? componentid: 241
+Where did the model come from? componentid: 242
+Where did the model come from? componentid: 243
+Where did the model come from? componentid: 244
+Where did the model come from? componentid: 245
+Where did the model come from? componentid: 246
+Where did the model come from? componentid: 247
+Where did the model come from? componentid: 248
+Where did the model come from? componentid: 249
+Where did the model come from? componentid: 250
+Where did the model come from? componentid: 251
+Where did the model come from? componentid: 252
+Where did the model come from? componentid: 253
+Where did the model come from? componentid: 254
+Where did the model come from? componentid: 255
+Where did the model come from? componentid: 256
+Where did the model come from? componentid: 258
+Where did the model come from? componentid: 259
+Where did the model come from? componentid: 260
+Where did the model come from? componentid: 261
+Where did the model come from? componentid: 262
+Where did the model come from? componentid: 263
+Where did the model come from? componentid: 264
+Where did the model come from? componentid: 265
+Where did the model come from? componentid: 266
+Where did the model come from? componentid: 267
+Writing to RUMBA32-PcbDoc/Root Entry/Arcs6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Vias6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Polygons6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Tracks6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Dimensions6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/FileVersionInfo/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Fills6/Data.dat.txt
+Writing to RUMBA32-PcbDoc/Root Entry/Regions6/Data.dat.txt
+Texts6...
